@@ -26,8 +26,8 @@ build = {
        ["mimi.db.mongo.ivr"]  = "db/mongo/ivr.lua";
        ["mimi.db.mongo.peergroup"] = "db/mongo/peergroup.lua";
        ["mimi.db.mongo.queue"] = "db/mongo/queue.lua";
-       ["mimi.db.mongo.queueservice"] = "db/mongo/queueservice.lua";
        ["mimi.db.mongo.time"] = "db/mongo/time.lua";
+       ["mimi.db.mongo.sound"] = "db/mongo/sound.lua";
        ["mimi.db.mongo.outbound"] = "db/mongo/outbound.lua";
 
        --helpers
